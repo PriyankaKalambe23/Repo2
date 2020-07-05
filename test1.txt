@@ -1,0 +1,10 @@
+ Volume in drive C is PwC_OS
+ Volume Serial Number is C663-B5A6
+
+ Directory of C:\Users\pkalambe001\personal\Learning\MyGitProj
+
+07/05/2020  04:59 PM    <DIR>          .
+07/05/2020  04:59 PM    <DIR>          ..
+07/05/2020  04:59 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  349,048,971,264 bytes free
